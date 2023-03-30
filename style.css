@@ -1,0 +1,40 @@
+.head {
+    background-color:#fa9702;
+    padding:15;
+    margin: -20px -15px ;
+    color:rgb(255, 255, 255) ;
+    text-align: center;
+    border-bottom:#0cff40 solid 3px;
+ 
+}
+
+.box_model {
+    margin-top: 20px;
+   
+    
+}
+
+.left_box {
+    background-color: rgb(228, 118, 255);
+    color: white;
+    padding: 15px;
+    width: 25%;
+    margin-top:-5px;
+    margin-left: -10px;
+    height: 200px;
+    text-align: center;
+   
+    
+}
+
+
+.box1{
+    background-color: rgb(233, 137, 137);
+    height:150px;
+
+    
+   
+
+}
+
+
